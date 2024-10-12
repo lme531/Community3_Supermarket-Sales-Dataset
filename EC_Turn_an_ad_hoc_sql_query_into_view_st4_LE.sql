@@ -1,4 +1,3 @@
-
 --Turn the ad hoc SQL query into a view.
 
 DROP VIEW IF EXISTS dbo.v_SupermarketSalesDataset_load;
