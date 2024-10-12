@@ -1,4 +1,3 @@
-
 -- Create an ad hoc SQL query.
 ------------------------------------------------------------------------------------------------
 --Q1:What is the highiest product line in the supermarket?
