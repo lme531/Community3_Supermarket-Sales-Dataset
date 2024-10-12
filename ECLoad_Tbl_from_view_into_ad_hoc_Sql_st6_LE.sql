@@ -1,4 +1,3 @@
-
 --Load the table from the view using an ad hoc SQL script.
 ------------------------------------------------------------------------------------------------
 --Q1:What is the highiest product line in the supermarket?
