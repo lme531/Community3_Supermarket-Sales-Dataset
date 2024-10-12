@@ -1,4 +1,3 @@
-
 CREATE PROCEDURE  dbo.ups_t_SupermarketSalesDataset_load
 
 AS
