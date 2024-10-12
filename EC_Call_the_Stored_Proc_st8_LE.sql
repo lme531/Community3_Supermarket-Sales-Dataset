@@ -1,4 +1,3 @@
-
 --Call the stored procedure.
 ------------------------------------------------------------------------------------------------
 --Q1:What is the highiest product line in the supermarket?
